@@ -5,12 +5,6 @@ Designed for luxury shopping experiences with a responsive layout, product filte
 ✨ Live Preview
 https://nanakfashionboutique.netlify.app/
 
-📸 Screenshots
-Home Page
-Shop Page
-Product Detail View
-Mobile Responsive Design
-
  Features
 🛒 Fully responsive fashion store UI
 🎨 Elegant luxury design with dark/light mode support
@@ -76,3 +70,11 @@ Desktop full experience
 Author
 Michael Asare
 Frontend Developer | IT Student
+
+📸 Screenshots
+<img width="1920" height="6456" alt="screencapture-nanakfashionboutique-netlify-app-2026-04-10-08_57_34" src="https://github.com/user-attachments/assets/d5a64386-a33d-4d1e-bf27-a91783aa5487" />
+<img width="1920" height="6330" alt="screencapture-nanakfashionboutique-netlify-app-2026-04-10-08_59_32" src="https://github.com/user-attachments/assets/108514f5-5873-4863-b0f8-bf8fb8dfa151" />
+<img width="1920" height="2500" alt="screencapture-nanakfashionboutique-netlify-app-2026-04-10-09_00_41" src="https://github.com/user-attachments/assets/e7ac5035-9684-4c23-bb95-2b14bf22a9b2" />
+<img width="1920" height="1677" alt="screencapture-nanakfashionboutique-netlify-app-2026-04-10-09_01_26" src="https://github.com/user-attachments/assets/aa4e352f-9d7e-4783-8a99-8e036788a3c0" />
+<img width="1920" height="1276" alt="screencapture-nanakfashionboutique-netlify-app-2026-04-10-09_01_44" src="https://github.com/user-attachments/assets/68c9485f-9cc7-4932-8fe2-94f735f67d1c" />
+
